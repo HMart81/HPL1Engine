@@ -7,6 +7,8 @@ Read through the TODO file for various known things that should be cleaned up / 
 
 Included are project files for Xcode, Visual Studio 2003 and Cmake (for Linux)
 
+Update(HM 04/10/2025) for windows this fork can now be compiled with Visual Studio 2022
+
 Contributing Code
 -----------------
 We encourage everyone to contribute code to this project, so just sign up for a github account, create a fork and hack away at the codebase. We will start an Open Source forum on the Frictional Games forums as a place to talk about changes and to submit patches from your forks.
