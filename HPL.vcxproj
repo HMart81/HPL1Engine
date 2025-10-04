@@ -78,7 +78,7 @@
     </ClCompile>
     <Lib>
       <OutputFile>lib/HPL.lib</OutputFile>
-      <AdditionalLibraryDirectories>..\dependencies\lib\win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>.\dependencies\lib\win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
